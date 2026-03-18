@@ -32,7 +32,7 @@
 
 ## 部署与使用教程
 
-在现在的Deno的个人面板中，已经移除了“New Project”按钮，由“New App”替代。其URL也发生了变化
+> 在现在的Deno的个人面板中，已经移除了“New Project”按钮，由“New App”替代。其URL也发生了变化
 
 按照以下步骤，轻松部署你自己的 AstrBot GitHub 加速服务：
 
